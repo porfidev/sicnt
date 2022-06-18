@@ -1,0 +1,32 @@
+{
+  "name": "sicnt",
+  "version": "1.0.0",
+  "description": "Propuesta desarrollada para SICNT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/porfidev/sicnt.git"
+  },
+  "keywords": [
+    "web",
+    "site",
+    "plain",
+    "static",
+    "desarrollo",
+    "programacion"
+  ],
+  "author": "Porfirio Chávez <hola@porfi.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/porfidev/sicnt/issues"
+  },
+  "homepage": "https://github.com/porfidev/sicnt#readme",
+  "devDependencies": {
+    "http-server": "^14.1.0",
+    "prettier": "^2.6.2"
+  }
+}
