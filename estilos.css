@@ -1,0 +1,39 @@
+body {
+	background-color: #001E50;
+	background-image: url(imagenes/fondo_pag.jpg);
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 10px;
+}
+#main {
+	text-align: left;
+	background-image: url(imagenes/degradado_right.jpg);
+	background-position: right top;
+	background-repeat: repeat-y;
+	width: 1005px;
+	background-color: #FFFFFF;
+}
+#header {
+	width: 994px;
+}
+#menu {
+	height: 39px;
+	width: 974px;
+	background-image: url(imagenes/fondo_menu.jpg);
+	margin-left: 10px;
+	background-repeat: repeat-x;
+	text-align: center;
+}
+#contenido {
+	background-image: url(imagenes/fondo_contenido.jpg);
+	margin-left: 10px;
+	background-repeat: no-repeat;
+	background-position: left;
+	height: 578px;
+}
+#footer {
+	background-image: url(imagenes/fondo_footer.jpg);
+	height: 40px;
+}
